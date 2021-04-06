@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I am looking for people to do remote pair programming sessions on open source projects.
+
+
 <!--
 **szabgab/szabgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
