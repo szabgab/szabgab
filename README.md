@@ -5,6 +5,7 @@
   - [PyDigger](https://pydigger.com/) in Python
   - [CPAN Digger](https://cpan-digger.perlmaven.com/) in Perl
   - [Ruby Digger](https://ruby-digger.code-maven.com/) in Ruby
+  - [Kantoniko](https://kantoniko.com/) in Ladino
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/szabgab/) or by mail: gabor AT szabgab.com
 
 
