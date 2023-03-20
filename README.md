@@ -9,6 +9,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/szabgab/) or by mail: gabor AT szabgab.com
 
 
+- [Open issues for szabgab](https://github.com/search?q=user%3Aszabgab%20state%3Aopen&type=issues)
+- [Open issues in OSDC-Code-Maven](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues)
+
 <!--
 
 Here are some ideas to get you started:
