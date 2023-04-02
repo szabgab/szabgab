@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 I’m teaching the [Open Source Developer Course](https://osdc.code-maven.com/)
+- 🤔 I’m teaching the [Open Source Developer Course](https://osdc.code-maven.com/) trying to get more people learn how and why to contribute to open source projects.
 - 🔭 I’m currently working on
   - [PyDigger](https://pydigger.com/) in Python
   - [CPAN Digger](https://cpan-digger.perlmaven.com/) in Perl
