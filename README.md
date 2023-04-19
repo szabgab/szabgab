@@ -13,7 +13,17 @@
 - [Open issues in OSDC-Code-Maven](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues)
 - [Open issues in Kantoniko](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues)
  
- 
+
+### Invite me!
+
+* Invite me to give a presentation or a full course at your company! Topic can include
+  - Open Source Development
+  - git, GitHub/GitLab
+  - Testing
+  - Continuous Integration
+  - Programming in Python
+  - Programming in Perl
+
 ### Sponsor me!
 
 Besides working on some Open Source projects of my own, I also try to contribute to many other projects. These are usually relatively small and external contributions, but I belive they can be quite valuable.
