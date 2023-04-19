@@ -13,6 +13,16 @@
 - [Open issues in OSDC-Code-Maven](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues)
 - [Open issues in Kantoniko](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues)
  
+ 
+### Sponsor me!
+
+Besides working on some Open Source projects of my own, I also try to contribute to many other projects. These are usually relatively small and external contributions, but I belive they can be quite valuable.
+* Updating META data of the project (e.g. including a link back to their GitHub repo so people on PyPI, RubyGems, MetaCPAN, etc. will be able to locate the VCS)
+* Adding tests
+* Configuring GitHub Actions as a CI to run the tests on every push and every pull-request
+
+Sponsor me to allow me to do more of this!
+
 <!--
 
 Here are some ideas to get you started:
