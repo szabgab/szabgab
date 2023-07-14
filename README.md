@@ -1,4 +1,4 @@
-### Gábor Szabo, Python, Git, and testing trainer
+### Gábor Szabó, Python, Git, and testing trainer
 
 Hi there 👋, I am helping people writter higher quality code faster through my course and enable them to create more value to their employers. I also teach peaople how to contribute to open source projects. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them. Since the corona virus started I taught mostly on-line though in-person training is coming back.
 
