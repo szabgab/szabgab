@@ -1,10 +1,10 @@
-### Gábor Szabó, teaching Python, Git, GitHub, and Docker
+### Gábor Szabó, teaching Rust, Python, Git, GitHub, and Docker
 
 Hi there 👋, I am helping people writter higher quality code faster through my course and enable them to create more value to their employers. I also teach peaople how to contribute to open source projects. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them. Since the corona virus started I taught mostly on-line though in-person training is coming back.
 
 In this repository you will find many open source projects I have been working on. The most imporant ones are listed below.
 
-### Courses
+### Courses - Corporate Training
 - I'm teaching the [Open Source Developer Course](https://osdc.code-maven.com/) helping people who would like to contribute to open source projects.
 - Python for Beginners
 - Advanced Python
@@ -15,7 +15,7 @@ In this repository you will find many open source projects I have been working o
 
 - If you are interested in courses they can be found here: https://szabgab.com/
 
-- Youtube: https://www.youtube.com/code-maven
+- [Code Maven Youtube channel](https://www.youtube.com/code-maven)
 
 ### Contact info - How to reach me:
 
