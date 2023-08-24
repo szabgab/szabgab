@@ -26,10 +26,10 @@ In this repository you will find many open source projects I have been working o
 ### Open Source projects
 
 - 🔭 I’m currently working on
+  - [Rust Digger](https://rust-digger.code-maven.com/) in Rust
   - [PyDigger](https://pydigger.com/) in Python
   - [CPAN Digger](https://cpan-digger.perlmaven.com/) in Perl
   - [Ruby Digger](https://ruby-digger.code-maven.com/) in Ruby
-  - [Rust Digger](https://rust-digger.code-maven.com/) in Rust
   - [Kantoniko](https://kantoniko.com/) in Ladino
 
 
