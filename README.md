@@ -1,6 +1,6 @@
 ### Gábor Szabó, teaching Rust, Python, Git, GitHub, and Docker
 
-Hi there 👋, I am helping people writter higher quality code faster through my course and enable them to create more value to their employers. I also teach peaople how to contribute to open source projects. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them. Since the corona virus started I taught mostly on-line though in-person training is coming back.
+Hi there 👋, I help people writter higher quality code faster and enable them to create more value to their employers and to the world. I also teach peaople how to contribute to open source projects. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them. Since the corona virus started I taught mostly on-line though in-person training is coming back.
 
 In this repository you will find many open source projects I have been working on. The most imporant ones are listed below.
 
