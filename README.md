@@ -1,17 +1,25 @@
-### Gábor Szabó, teaching Rust, Python, Git, GitHub, and Docker
+### Gábor Szabó, Open Source contributor, teacher, and consultant
 
-Hi there 👋, I help people writter higher quality code faster and enable them to create more value to their employers and to the world. I also teach peaople how to contribute to open source projects. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them. Since the corona virus started I taught mostly on-line though in-person training is coming back.
+Hi there 👋,
 
-In this repository you will find many open source projects I have been working on. The most imporant ones are listed below.
+I maintain a number of Open Source projects and contribute improvements to hundreds of other projects.
+
+At my corporate clients I help people writter higher quality code faster and enable them to create more value to their employers and to the world. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them.
+
+The main programming languages are Rust, Python, and Perl.
+
+Git, GitHub, and Docker
+
 
 ### Courses - Corporate Training
-- I'm teaching the [Open Source Developer Course](https://osdc.code-maven.com/) helping people who would like to contribute to open source projects.
+- Programming in Rust
 - Python for Beginners
 - Advanced Python
 - Testing with Python (pytest)
 - Web development with Python Flask
 - Git
 - GitHub
+- I'm teaching the [Open Source Developer Course](https://osdc.code-maven.com/) helping people who would like to contribute to open source projects.
 
 - If you are interested in courses they can be found here: https://szabgab.com/
 
@@ -60,7 +68,6 @@ Sponsor me to allow me to do more of this!
 
 <!--
 
-Here are some ideas to get you started:
 - 🤔 I’m looking for open source projects that would like to receive help in creating test, setting up linters, configuring CI (GitHub Actions) [see](https://code-maven.com/os)
 
 - 👯 I am looking for people to do [remote pair programming sessions](https://code-maven.com/live) on Open Source projects.
