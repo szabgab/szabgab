@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-I maintain a number of Open Source projects and contribute improvements to hundreds of other projects. I organize live online presentations in [English about Rust, Python, and Perl](https://live.code-maven.com/). I maintain the web site of [Rust](https://rust.org.il/), [Python](https://python.org.il/), and [Perl](https://perl.org.il/) communities in Israel.
+I maintain a number of Open Source projects and contribute improvements to hundreds of other projects. I organize live online presentations about [Rust, Python, and Perl](https://live.code-maven.com/). I maintain the web site of [Rust](https://rust.org.il/), [Python](https://python.org.il/), and [Perl](https://perl.org.il/) communities in Israel.
 
 At my corporate clients I help people writter higher quality code faster and enable them to create more value to their employers and to the world. I taught in a number of cities around the world: in Austin, Chicago, Frankfurt, Copenhagen, Oslo, Lisbon, Pisa, Riga, Tel Aviv, Jerusalem, Haifa, Rehovot, just to name some of them.
 
