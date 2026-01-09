@@ -40,11 +40,14 @@ Git, GitHub, and Docker
   - [Ruby Digger](https://ruby-digger.code-maven.com/) in Ruby
   - [Kantoniko](https://kantoniko.com/) in Ladino
 
+### Open source work
 
-- [Open issues for szabgab](https://github.com/search?q=user%3Aszabgab%20state%3Aopen&type=issues)
-- [Open issues in OSDC-Code-Maven](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues)
-- [Open issues in Kantoniko](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues)
- 
+| Organization    | issues | PRs |
+| --------------- | ------ | --- |
+| szabgab         | [Open issues](https://github.com/search?q=user%3Aszabgab%20state%3Aopen&type=issues)        | [Open PRs](https://github.com/search?q=user%3Aszabgab+state%3Aopen&type=pullrequests) |
+| OSDC-Code-Maven | [Open issues](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues) | [Open PRs](https://github.com/search?q=user%3AOSDC-Code-Maven+state%3Aopen&type=pullrequests) |
+| Kantoniko       | [Open issues](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues)       | [Open PRs](https://github.com/search?q=user%3Akantoniko+state%3Aopen&type=pullrequests) |
+
 
 ### Invite me!
 
