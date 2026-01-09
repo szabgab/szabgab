@@ -45,6 +45,7 @@ Git, GitHub, and Docker
 | Organization    | issues | PRs |
 | --------------- | ------ | --- |
 | szabgab         | [Open issues](https://github.com/search?q=user%3Aszabgab%20state%3Aopen&type=issues)        | [Open PRs](https://github.com/search?q=user%3Aszabgab+state%3Aopen&type=pullrequests) |
+| Code-Maven      | [Open issues](https://github.com/search?q=org%3ACode-Maven%20state%3Aopen&type=issues)      | [Open PRs](https://github.com/search?q=user%3ACode-Maven+state%3Aopen&type=pullrequests) |
 | OSDC-Code-Maven | [Open issues](https://github.com/search?q=org%3AOSDC-Code-Maven%20state%3Aopen&type=issues) | [Open PRs](https://github.com/search?q=user%3AOSDC-Code-Maven+state%3Aopen&type=pullrequests) |
 | Kantoniko       | [Open issues](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues)       | [Open PRs](https://github.com/search?q=user%3Akantoniko+state%3Aopen&type=pullrequests) |
 
