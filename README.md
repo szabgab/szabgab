@@ -4,7 +4,7 @@ Hi there 👋,
 
 I maintain a number of Open Source projects and contribute improvements to hundreds of other projects. I organize live [online presentations](https://live.code-maven.com/) about [Rust 🦀](https://rust.code-maven.com/live), [Python 🐍](https://python.code-maven.com/live), and [Perl 🐪](https://perlmaven.com/live). I maintain the web site of [Rust 🦀](https://rust.org.il/), [Python 🐍](https://python.org.il/), and [Perl 🐪](https://perl.org.il/) communities in Israel 🇮🇱.
 
-At my corporate clients I help people writter higher quality code faster and enable them to create more value to their employers and to the world. I taught in a number of cities around the world: in Austin, Chicago 🇺🇸, Frankfurt 🇩🇪, Copenhagen 🇩🇰, Oslo 🇳🇴, Lisbon 🇵🇹, Pisa 🇮🇹, Granada 🇪🇸, Riga 🇱🇻, Tel Aviv, Jerusalem, Haifa, Rehovot 🇮🇱, just to name some of them.
+At my corporate clients I help people write higher quality code faster and enable them to create more value to their employers and to the world. I taught in a number of cities around the world: in Austin, Chicago 🇺🇸, Frankfurt 🇩🇪, Copenhagen 🇩🇰, Oslo 🇳🇴, Lisbon 🇵🇹, Pisa 🇮🇹, Granada 🇪🇸, Riga 🇱🇻, Tel Aviv, Jerusalem, Haifa, Rehovot 🇮🇱, just to name some of them.
 
 The main programming languages are Rust, Python, and Perl.
 
