@@ -20,9 +20,7 @@ Git, GitHub, and Docker
 - Git
 - GitHub
 - I'm teaching the [Open Source Developer Course](https://osdc.code-maven.com/) helping people who would like to contribute to open source projects.
-
 - If you are interested in courses they can be found here: https://szabgab.com/
-
 - [Code Maven Youtube channel](https://www.youtube.com/code-maven)
 
 ### Contact info - How to reach me:
